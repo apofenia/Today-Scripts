@@ -1,4 +1,5 @@
 ##  Today-Scripts (custom scripts in your notification bar. This fork has a fix for Mac OS X Sierra, tested on **macOS 10.12.3**)
+A widget for running scripts in the Today View in OS X Sierra`s Notification Center.
 
 Changed original script to fit new light transparent style introduced in OSX Sierra.
 
