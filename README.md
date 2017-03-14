@@ -30,5 +30,7 @@ To edit an existing script, click the "action" button to the right of its label.
 ##Special Thanks
 
 Support for ANSI escape sequences made possible thanks to [Ali Rantakari's ANSIEscapeHelper](http://hasseg.org/ansiEscapeHelper/).
+
 Special credit to [lsd](https://github.com/lsd/Today-Scripts/) for previous fixes regarding OSX El Capitan
+
 Icon designed by [Friedrich Preuß](http://phriedrich.de).
