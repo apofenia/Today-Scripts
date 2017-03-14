@@ -24,9 +24,9 @@
     self.programField.backgroundColor = NSColor.clearColor;
     self.scriptField.backgroundColor = NSColor.clearColor;
 
-    self.labelField.textColor = NSColor.labelColor;
-    self.programField.textColor = NSColor.labelColor;
-    self.scriptField.textColor = NSColor.labelColor;
+    self.labelField.textColor = NSColor.darkGrayColor;
+    self.programField.textColor = NSColor.darkGrayColor;
+    self.scriptField.textColor = NSColor.darkGrayColor;
 
     self.labelField.insertionPointColor = NSColor.labelColor;
     self.programField.insertionPointColor = NSColor.labelColor;
@@ -34,7 +34,7 @@
 
     self.labelField.font = [NSFont boldSystemFontOfSize:11];
     self.programField.font = [NSFont boldSystemFontOfSize:11];
-    self.scriptField.font = [NSFont fontWithName:@"Menlo-Bold" size:9.5];
+    self.scriptField.font = [NSFont fontWithName:@"Arial" size:10];
 
     self.labelField.textContainerInset = NSMakeSize(0, 2);
     self.programField.textContainerInset = NSMakeSize(0, 2);

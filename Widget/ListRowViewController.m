@@ -65,7 +65,7 @@
 - (void)setTitle:(NSString *)title
 {
     super.attributedTitle = [[NSAttributedString alloc] initWithString:title attributes:@{
-        NSForegroundColorAttributeName: NSColor.labelColor,
+        NSForegroundColorAttributeName: NSColor.darkGrayColor,
         NSFontAttributeName:  [NSFont boldSystemFontOfSize:11]
     }];
 }
