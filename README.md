@@ -13,9 +13,7 @@ Changed original script to fit new light transparent style introduced in OSX Sie
 
 ##Usage
 
-If you don't want to compile this yourself, nor clone the repo to get the binary in the `build` dir
-
-or download the binary **.app*. You can **download the binary** or view the [build/ for the uncompressed bin](https://github.com/falkvw/Today-Scripts/tree/master/build) dir.
+If you don't want to compile this yourself, you can view the [build/ for the uncompressed bin](https://github.com/falkvw/Today-Scripts/tree/master/build) dir to get a compiled and ready to use version.
 
 After building, simply copy "Today Scripts.app" wherever you'd like to store it, then open it. In Notification Center, you will see "1 New" appear on the edit button, and you may use that to add Today Scripts to your Today View in order to begin using it.
 
